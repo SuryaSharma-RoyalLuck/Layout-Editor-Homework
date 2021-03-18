@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Mar 19 01:08:35 NPT 2021
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\surya\\AndroidStudioProjects\\The-Layout-Editor-HomeWork\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1
